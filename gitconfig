@@ -1,0 +1,9 @@
+[user]
+	name = ForgetfulWasAria
+	email = aria_forgetful@outlook.com
+[credential]
+	helper = store --file /mnt/c/Users/aria_/Linux/github_token.txt
+[core]
+	editor = nano
+[init]
+	defaultBranch = main

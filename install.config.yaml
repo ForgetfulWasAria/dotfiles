@@ -1,0 +1,19 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.nanorc: nanorc
+    ~/.blerc: blerc
+    ~/.gitconfig: gitconfig
+    ~/.bash_profile: bash_profile
+    ~/.bashrc: bashrc
+    ~/.bash_logout: bash_logout
+    ~/.bash_history: bash_history
+    ~/.bash_aliases: bash_aliases
+    ~/.bin: bin
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
