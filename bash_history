@@ -187,3 +187,182 @@ ls
 tldr echo
 tldr find
 find --help
+cd  
+ls
+ls -la
+mkdir .bin
+rmdir .bin/
+cd dotfiles/
+ls
+mkdir bin
+touch bash_aliases
+nano .bash
+nano bashrc 
+cp bashrc bash_aliases 
+nano bash_
+nano bash_aliases 
+nano bashrc 
+nano bashrc 
+nano install.config.yaml 
+./install -c ./install.config.yaml 
+ls -l
+nano gitconfig 
+git add --all
+git status
+git remote add origin git@github.com:ForgetfulWasAria/dotfiles.git
+git push -u origin main
+git config show
+git config --help
+ls
+ls -la
+ls -la .git
+nano .git/config
+git push origin main
+git push --force origin main
+cat ./git/config
+cat ./.git/config
+tldr git
+git help init
+git init -b main
+ls
+cat gitconfig
+ls -la
+rmdir .git
+git branch -m master main
+git help commit
+tldr git
+git help commit
+git commit -m "Initial dotfiles commit"
+git push -u origin main
+git push origin main
+git status
+ls
+ls -la
+git log
+git origin -v
+git remote -v
+git push -u origin main
+get remote add origin https://github.com/ForgetfulWasAria/dotfiles
+git remote add origin https://github.com/ForgetfulWasAria/dotfiles
+git remote  
+git remote  help
+git remote remove origin
+git remote add origin https://github.com/ForgetfulWasAria/dotfiles
+git push -u origin main
+git pull --help
+git pull https://github.com/ForgetfulWasAria/dotfiles main
+git pull rebase true https://github.com/ForgetfulWasAria/dotfiles main
+git pull --rebase true https://github.com/ForgetfulWasAria/dotfiles main
+git pull https://github.com/ForgetfulWasAria/dotfiles main --rebase
+ls
+nano README.md 
+git push -u origin main
+pacman -Qqe > paclist
+pacman -Qqm > aurlist
+cat paclist 
+pacman -Ss paru
+pacman -Ss kde
+cat aurlist 
+paru -Syu youtube-dl
+glances
+ls
+pacman -Qqm > aurlist
+pacman -Qqe
+pacman -Qqe > paclist
+cd
+ls
+ln -s /mnt/c/Users/aria_/Downloads/ .
+ls
+cd Downloads
+ls
+rm mpv-x86_64-20210704-git-f2afae5.7z 
+youtube-dl https://www.bilibili.com/video/BV1Uq4y1p7Ga
+cd
+echo $PATH
+source .bashrcs
+
+ls
+cd
+ls
+sudo bash
+ls
+echo $PATH
+ls
+ls -la
+cd
+ls
+nano .bashrc
+source .bashrc
+stty sane
+ls
+ls -la
+ls
+ls -la
+echo $PATH
+cd
+nano .bashrc
+ls
+echo $PATH
+cd
+paru -Ss ffmpeg
+paru -Syu ffmpeg
+ffmpeg --help
+cd Downloads
+ls
+ffmpeg -i 听说有人不想努力了？-1Uq4y1p7Ga.flv -codec copy 听说有人不想努力了？-1Uq4y1p7Ga.mp4
+ls
+ls -l
+cd
+ls
+rm ./Downloads/听说有人不想努力了？-1Uq4y1p7Ga.flv 
+ls
+mpv
+nano 
+nano .bashrc
+cd ~/dotfiles/
+ls
+mv config.toml tealdeer.config.toml
+ls
+cd
+ls
+paru -R tldr
+paru -Syu tealdeer
+paru -Ql tealdeer
+tldr
+tldr --update
+tldr git
+tldr --show-paths
+which tldr
+ls -l /usr/sbin/tldr
+pacman -Qo /usr/sbin/tldr
+tldr --help
+tldr --config-path
+ls -la
+tldr --seed-config
+cd .config/tealdeer/
+ls
+mv config.toml ~/dotfiles/
+cd ~/dotfiles/
+ls
+nano install.config.yaml 
+./install -c install.config.yaml 
+nano install.config.yaml 
+./install -c install.config.yaml 
+nano tealdeer.config.toml 
+paru -Ss micro
+paru -Syu micro
+pacman -Ss paru
+micro bashrc
+micro bashrc
+ls
+ls -la 
+delta --help
+delta --show-themes
+paru -Ss delta
+paru -Ql git-delta
+cat ~/Downloads/themes.gitconfig 
+cp ~/Downloads/themes.gitconfig ./dotfiles/
+cp ~/Downloads/themes.gitconfig ./dotfiles/
+cd dotfiles/
+ls
+cat gitconfig 

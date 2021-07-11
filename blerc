@@ -1,5 +1,0 @@
-#bleopt editor=vim
-bleopt delete_selection_mode=1
-bleopt indent_offset=4
-bleopt indent_tabs=0
-
