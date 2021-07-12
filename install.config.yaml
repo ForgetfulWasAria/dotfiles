@@ -5,15 +5,13 @@
 - clean: ['~']
 
 - link:
-    ~/.nanorc: nanorc
-    ~/.blerc: blerc
     ~/.gitconfig: gitconfig
     ~/.bash_profile: bash_profile
     ~/.bashrc: bashrc
     ~/.bash_logout: bash_logout
     ~/.bash_aliases: bash_aliases
     ~/.bin: bin
-    ~/.config/tealdeer/config.toml: tealdeer.config.toml
+    ~/.config: ./config
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
