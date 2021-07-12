@@ -1,0 +1,31 @@
+{
+    "python.showStartPage": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.venvPath": "c:\\users\\tconl\\documents\\projects\\python\\.venv",
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Cascadia, Consolas, 'Courier New', monospace",
+    "editor.tokenColorCustomizations": {
+        "comments": "#229977",
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            }
+        ]
+    },
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#333333",
+        "editor.selectionHighlightBackground": "#333333",
+        "editor.background": "#030303"
+    },
+    "workbench.sideBar.location": "right",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontSize": 16,
+    "window.zoomLevel": 3
+}
