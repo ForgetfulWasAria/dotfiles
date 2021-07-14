@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2021-07-11T09:16:22.276-00:00",
+	"CreationDate" : "2021-07-14T15:35:13.614-00:00",
 	"Sources" : 
 	[
 		{
@@ -16,13 +16,25 @@
 					"PackageIdentifier" : "KDE.Krita"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminalPreview"
 				},
 				{
 					"PackageIdentifier" : "Mozilla.Firefox"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
 					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
 				},
 				{
 					"PackageIdentifier" : "DuongDieuPhap.ImageGlass"
@@ -37,10 +49,19 @@
 					"PackageIdentifier" : "KeePassXCTeam.KeePassXC"
 				},
 				{
+					"PackageIdentifier" : "ElectronicArts.EADesktop"
+				},
+				{
 					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Digimezzo.Dopamine"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
 				}
 			],
 			"SourceDetails" : 
