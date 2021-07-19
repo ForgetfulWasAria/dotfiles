@@ -10,6 +10,7 @@ duf
 dust
 exa
 fakeroot
+fd
 ffmpeg
 flex
 fzf
@@ -31,6 +32,7 @@ libwmf
 m4
 make
 man-db
+mcfly
 micro
 neofetch
 paru
@@ -40,9 +42,11 @@ poppler
 ripgrep
 rust
 sed
+starship
 sudo
 systemd
 tealdeer
 texinfo
+wget
 which
 youtube-dl
